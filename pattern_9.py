@@ -11,4 +11,4 @@ for i in range(n):
         print()
         print("*" * n, end="")
 
-    print()
+    print() 
