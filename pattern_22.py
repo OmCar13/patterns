@@ -7,6 +7,7 @@ for i in range(n):
         
         print(n // 2 + 1 - distance_from_edge, end="")
     
+    
     print()
 
 
